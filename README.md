@@ -23,7 +23,7 @@ function Hello(){
 ```
 
 ```java
-namespace CollecivelyCode;
+package CollecivelyCode;
 
 public class Main {
   public static void main(String[] args) {
