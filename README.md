@@ -1,7 +1,7 @@
 ```python
 def Hello():
-  print('Welcome to my GitHub Page")
-  print('I speak Python')
+  print("Welcome to my GitHub Page")
+  print("I speak Python")
 ```
 
 ```javascript
